@@ -1,0 +1,9 @@
+---
+# TODO: Figure out how to set as community.general.xen_orchestra
+# plugin: community.general.xen_orchestra
+plugin: xen_orchestra
+url: xolab.localdomain
+user: vates
+password: vateslab
+validate_certs: no
+use_vm_ip_as_ansible_host: no

@@ -1,0 +1,3 @@
+ansible
+websocket-client
+requests
